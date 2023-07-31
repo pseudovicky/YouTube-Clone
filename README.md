@@ -1,6 +1,6 @@
 # Youtube Clone
 
-## Project Link [Click to open Website](link) to see it Live.
+## Project Link [Click to open Website](https://pseudovicky.github.io/YouTube-Clone/) to see it Live.
 
 I'm gonna add some of my basic practices with HTML & CSS and in the end I'll be making a Responsive Youtube Clone Webpage.
 
